@@ -1,7 +1,31 @@
 # Dental X - Dental Clinic Management System
 
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-18.2+-blue.svg" />
+  <img src="https://img.shields.io/badge/Swift-5.0-orange.svg" />
+  <img src="https://img.shields.io/badge/SwiftUI-✓-green.svg" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-red.svg" />
+</p>
+
 ## Overview
 Dental X is a production-ready iOS MVP application for managing dental clinic operations. Built with Swift and SwiftUI using clean MVVM architecture.
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/patients_list.png" width="200" alt="Patients List" />
+  <img src="screenshots/patient_detail.png" width="200" alt="Patient Detail" />
+  <img src="screenshots/schedule.png" width="200" alt="Schedule" />
+  <img src="screenshots/ai_screen.png" width="200" alt="AI Diagnosis" />
+</p>
+
+<p align="center">
+  <img src="screenshots/add_patient.png" width="200" alt="Add Patient" />
+  <img src="screenshots/add_appointment.png" width="200" alt="Add Appointment" />
+  <img src="screenshots/settings.png" width="200" alt="Settings" />
+</p>
+
+> **Note**: To add screenshots, run the app in Xcode simulator, take screenshots (⌘+S), and save them in the `screenshots/` folder.
 
 ## Features
 
