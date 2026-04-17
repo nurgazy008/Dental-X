@@ -13,19 +13,13 @@ Dental X is a production-ready iOS MVP application for managing dental clinic op
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/patients_list.png" width="200" alt="Patients List" />
+  <img src="screenshots/schedule.png" width="200" alt="Schedule View" />
   <img src="screenshots/patient_detail.png" width="200" alt="Patient Detail" />
-  <img src="screenshots/schedule.png" width="200" alt="Schedule" />
+  <img src="screenshots/add_appointment.png" width="200" alt="Add Appointment" />
   <img src="screenshots/ai_screen.png" width="200" alt="AI Diagnosis" />
 </p>
 
-<p align="center">
-  <img src="screenshots/add_patient.png" width="200" alt="Add Patient" />
-  <img src="screenshots/add_appointment.png" width="200" alt="Add Appointment" />
-  <img src="screenshots/settings.png" width="200" alt="Settings" />
-</p>
-
-> **Note**: To add screenshots, run the app in Xcode simulator, take screenshots (⌘+S), and save them in the `screenshots/` folder.
+> **Screens**: Schedule • Patient Detail • Add Appointment • AI Diagnosis
 
 ## Features
 
